@@ -1,0 +1,61 @@
+
+/*CSS DE PRIMERA PAGINA*/
+
+body{               /*ponerle la misma fuente a todo */ /*se refiere a toda la pagina*/
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+}
+
+
+h2 {
+    font-size: xx-large;
+    color: white
+      
+
+}
+h1{
+    color:white
+} 
+
+
+.btn{
+    background-color:#1A91DA ;
+    font-weight: bold; 
+    margin-top: 10px; 
+   
+}   
+
+.control {
+    width: 100%;
+    padding: inherit;
+    color:#1A91DA;
+    background-color: #192734;
+}
+
+#exampleModal {
+    top: auto;
+    margin-top: auto;
+} 
+
+#registrate {
+    margin-left: 55px;
+    border-radius: 30px;
+    padding: 7px;
+}
+
+#iniciar{
+  
+    margin-left: 55px;
+    border-radius: 30px;
+    padding: 7px;
+    
+    
+}
+
+#iniciar2{
+    width: 100%;
+    margin-left: 5px;
+    border-radius: 30px;
+    padding: 7px;
+    background-color: #1A91DA ;
+}
+

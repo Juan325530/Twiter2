@@ -1,0 +1,27 @@
+[
+    {
+        "codigoUsuario" : 1,
+        "nombre" : "Pedro",
+        "apellido" : "Hernandez",
+        "correo" : "pedro@gmail.com",
+        "fechaNacimiento" : "13/08/2020",
+        "contrasena" : "prueba"
+    },
+    {
+        "codigoUsuario" : 2,
+        "nombre" : "Juan",
+        "apellido" : "Hernandez",
+        "correo" : "juan@gmail.com",
+        "fechaNacimiento" : "13/08/2020",
+        "contrasena" : "prueba"
+    },
+    {
+        "codigoUsuario" : 3,
+        "nombre" : "Antonio",
+        "apellido" : "Hernandez",
+        "correo" : "tony@gmail.com",
+        "fechaNacimiento" : "13/08/2020",
+        "contrasena" : "prueba"
+    }
+
+]

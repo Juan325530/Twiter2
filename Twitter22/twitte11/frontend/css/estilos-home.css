@@ -1,0 +1,26 @@
+
+#btn-submit-search {
+    border: 1px solid white;
+    border-radius: 1.1em;
+}
+
+.contenido-principal{
+    float: left;
+    width: 500px;
+    margin-left: 300px;
+    padding: 10px;
+    margin-top: 110px;
+}
+
+#barraLateralDerecha {
+    list-style: none;
+}
+
+.tendencias{
+    border-radius: 15px;
+    background-color: #192734!important;
+}
+
+.bg-bar {
+    background-color: rgb(31, 45, 58) !important;
+}

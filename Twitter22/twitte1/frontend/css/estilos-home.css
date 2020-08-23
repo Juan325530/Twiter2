@@ -1,0 +1,87 @@
+
+body{               /*ponerle la misma fuente a todo */ /*se refiere a toda la pagina*/
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+}
+
+#btn {
+   border-radius: 10rem;
+   width: 110%;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    
+}
+
+#input {
+    margin-right: 5%;
+    margin-left: 40%;  /* para hacerlo a la derecha*/
+    width: 25%; /* para hacerlo mas largo el boton */
+    font-weight: bold; /*letra como sombreada*/
+    background-color: #253341;
+    padding: 10px;
+    box-sizing: border-box;   
+    font-size: 1rem; 
+    border-radius: 30px; /*el principal  para hacerlo redondito*/
+   
+    
+}
+
+#logo {
+    padding: 10px;
+    padding-left: 5px;
+    
+}
+
+.menu-lateral {
+    padding-left: 5%;
+    position: fixed;  
+    float: left;
+    width: 300px;
+    color: white!important;
+    margin-top: 110px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    
+}
+
+.contenido-principal{
+    float: left;
+    width: 500px;
+    margin-left: 300px;
+    padding: 10px;
+    margin-top: 110px;
+    
+    
+}
+
+.barra-derecha {
+    position: fixed;
+    float: right;
+    color: white;
+    margin-top: 0px;
+    width: 600px;
+    margin-left: 800px;
+    margin-top: 100px;
+
+
+    
+    
+
+}
+
+.tendencias{
+    
+    border-radius: 15px;
+    background-color: #192734!important;
+    margin-left: 26%;
+    margin-right: 15%;
+}
+
+.menu-lateral >a {
+    color: white!important;
+
+}
+
+#h1{
+    font-size: 1rem;
+   padding-left: 18%;
+   color:white
+   
+}

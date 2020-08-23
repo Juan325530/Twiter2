@@ -1,0 +1,23 @@
+#profile-back-image{
+    height: 12rem;
+    width: 100%;
+    background: url(img/JUAN2.JPG);
+    background-size: cover;
+}
+
+#EditarPerfil {
+    color: #1A91DA;
+    background-color: #162D40;
+    float: right;
+}
+
+#EditarPerfil:hover, #EditarPerfil:focus {
+    color: #0069d9;
+}
+
+.profile-first-pic {
+    max-width: 9rem;
+    position: absolute;
+    top: 9rem;
+    margin-left: 1rem;
+}

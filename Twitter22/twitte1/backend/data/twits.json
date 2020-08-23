@@ -1,0 +1,23 @@
+[
+    {
+        "codigoTwit" : 1,
+        "codigoUsuario" : 1,
+        "contenidoTwit": "Contenido Twit 1",
+        "imagen": "img/twitter.png",
+        "cantidadReTwits": 5
+    },
+    {
+        "codigoTwit" : 2,
+        "codigoUsuario" : 2,
+        "contenidoTwit": "Contenido Twit 1",
+        "imagen": "img/twitter.png",
+        "cantidadReTwits": 5
+    },
+    {
+        "codigoTwit" : 3,
+        "codigoUsuario" : 3,
+        "contenidoTwit": "Contenido Twit 1",
+        "imagen": "img/twitter.png",
+        "cantidadReTwits": 5
+    }
+]
